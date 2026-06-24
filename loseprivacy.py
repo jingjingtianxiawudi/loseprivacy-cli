@@ -169,7 +169,8 @@ class LosePrivacy():
 
     def search(self,keyword,field_value):
         cates = self.breach_map.keys()
-        qq_cate = None
+        qq_cate = 178657110
+        
         qq_cate_str = None
         result = {}
         for cate in cates:
